@@ -1,0 +1,21 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/GitHubReleaseUpdater/bin/Debug/GitHubReleaseUpdater.exe
+/GitHubReleaseUpdater/bin/Debug/GitHubReleaseUpdater.exe.config
+/GitHubReleaseUpdater/bin/Debug/GitHubReleaseUpdater.pdb
+/GitHubReleaseUpdater/bin/Debug/Octokit.dll
+/GitHubReleaseUpdater/bin/Debug/Octokit.xml
+/GitHubReleaseUpdater/obj/Debug/.NETFramework,Version=v4.7.2.AssemblyAttributes.cs
+/GitHubReleaseUpdater/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache
+/GitHubReleaseUpdater/obj/Debug/GitHubRe.596A5B24.Up2Date
+/GitHubReleaseUpdater/obj/Debug/GitHubReleaseUpdater.csproj.AssemblyReference.cache
+/GitHubReleaseUpdater/obj/Debug/GitHubReleaseUpdater.csproj.CoreCompileInputs.cache
+/GitHubReleaseUpdater/obj/Debug/GitHubReleaseUpdater.csproj.FileListAbsolute.txt
+/GitHubReleaseUpdater/obj/Debug/GitHubReleaseUpdater.csproj.GenerateResource.cache
+/GitHubReleaseUpdater/obj/Debug/GitHubReleaseUpdater.exe
+/GitHubReleaseUpdater/obj/Debug/GitHubReleaseUpdater.GitHubReleaseUpdaterForm.resources
+/GitHubReleaseUpdater/obj/Debug/GitHubReleaseUpdater.LoadingForm.resources
+/GitHubReleaseUpdater/obj/Debug/GitHubReleaseUpdater.pdb
+/GitHubReleaseUpdater/obj/Debug/GitHubReleaseUpdater.Properties.Resources.resources
