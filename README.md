@@ -40,3 +40,7 @@ It will save all the repos list in a directory under repo/ folder, you can maint
 It's a very easy-to-use application to simplfy my labor, I didn't verify and test too many edge case. Thus, many bugs should exist and I still have many things need to do to complete this app.
 for example, add a button or view to let user create a new list. (for me, currently I just need to create a .txt file under /repo :p)
 Moreover, alerts and popup error need to be handled as well. (I'm lazy to put warning for my own.)
+
+# Language
+This app is written in ASP.Net MVC, using GitHub Octokit library for connecting and loading.
+
