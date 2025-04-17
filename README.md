@@ -9,8 +9,8 @@ Some of my friends asked me to share this simple applicaiton, thus I decided to 
 # How to Use
 
 * First of all, GitHub requires user credential to call its API, simple user cred is limitted (~20 access/hour). 
-Therefore, I have to using GitHub JWT user token, so users can fetch hundreds of repositories every single time.
-* You can simply get your GitHub user token at https://github.com/settings/tokens , and then [Personal access token] > [Tokens(classic)] > "Create an personal access token for C# App". 
+Therefore, I have to using GitHub JWT personal access token, so users can fetch hundreds of repositories every single time.
+* You can simply get your GitHub PAT at https://github.com/settings/tokens , and then [Personal access token] > [Tokens(classic)] > "Create an personal access token for C# App". 
 You just need a check [repo] and [user] scopes, that's it!
 <img src="https://github.com/user-attachments/assets/2969365a-c20d-4eb7-9f43-208f4b431023" width=80% height=80%>
 
